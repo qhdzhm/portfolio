@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./About.css";
 import images from "../../constants/images";
 import { about_stats } from "../../constants/data";
-import video from "../../assets/videos/MyWorks.mp4";
 import ReactPlayer from "react-player";
 const About = () => {
   const [playing, setPlaying] = useState(false);
@@ -46,17 +45,17 @@ const About = () => {
                 Past Works <span className="text-dark">Demonstration</span>
               </h3>
               <p className="text mx-auto">
-                I've worked on various projects that showcase my
-                ability to create robust and user-friendly web applications.
-                From full-stack development using Java Spring and React to
-                crafting visually appealing interfaces, my work demonstrates a
-                commitment to quality and innovation. Below is a demonstration
-                of some of my past projects.
+                I've worked on various projects that showcase my ability to
+                create robust and user-friendly web applications. From
+                full-stack development using Java Spring and React to crafting
+                visually appealing interfaces, my work demonstrates a commitment
+                to quality and innovation. Below is a demonstration of some of
+                my past projects.
               </p>
             </div>
             <div className="about-video">
               <ReactPlayer
-                url={video}
+                url="https://mywork122.oss-ap-southeast-2.aliyuncs.com/MyWorks.mp4"
                 playing={playing}
                 controls={true}
                 onEnded={() => setPlaying(false)}
