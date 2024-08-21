@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ac7ced82.css",
-    "main.js": "/portfolio/static/js/main.f11f8e9b.js",
+    "main.css": "/portfolio/static/css/main.6143470b.css",
+    "main.js": "/portfolio/static/js/main.2a044544.js",
     "reactPlayerYouTube.js": "/portfolio/static/js/reactPlayerYouTube.deab9314.chunk.js",
     "reactPlayerSoundCloud.js": "/portfolio/static/js/reactPlayerSoundCloud.0e4ba1bb.chunk.js",
     "reactPlayerVimeo.js": "/portfolio/static/js/reactPlayerVimeo.2b7c4767.chunk.js",
@@ -22,7 +22,6 @@
     "static/media/stat_img_2.png": "/portfolio/static/media/stat_img_2.9c96a57c4a072956ff1c.png",
     "static/media/work_img_3.png": "/portfolio/static/media/work_img_3.ce2c9dc06510eda68051.png",
     "static/media/stat_img_1.png": "/portfolio/static/media/stat_img_1.e707b3be2667f0ebf571.png",
-    "static/media/subscribe_background.jpg": "/portfolio/static/media/subscribe_background.3c44ec5c781feff5e763.jpg",
     "static/media/stat_img_4.png": "/portfolio/static/media/stat_img_4.98aa4c14de6594dd0ea3.png",
     "static/media/stat_img_3.png": "/portfolio/static/media/stat_img_3.1bd6d21094524535f3c6.png",
     "static/media/logo_img_1.png": "/portfolio/static/media/logo_img_1.56e6302690f664182a9d.png",
@@ -34,8 +33,8 @@
     "static/media/services_img_2.svg": "/portfolio/static/media/services_img_2.5a8711e13cf7229829fbc73960f23d3d.svg",
     "static/media/services_img_4.svg": "/portfolio/static/media/services_img_4.296158a99b9d16e53dcee5e9384e7c9e.svg",
     "index.html": "/portfolio/index.html",
-    "main.ac7ced82.css.map": "/portfolio/static/css/main.ac7ced82.css.map",
-    "main.f11f8e9b.js.map": "/portfolio/static/js/main.f11f8e9b.js.map",
+    "main.6143470b.css.map": "/portfolio/static/css/main.6143470b.css.map",
+    "main.2a044544.js.map": "/portfolio/static/js/main.2a044544.js.map",
     "reactPlayerYouTube.deab9314.chunk.js.map": "/portfolio/static/js/reactPlayerYouTube.deab9314.chunk.js.map",
     "reactPlayerSoundCloud.0e4ba1bb.chunk.js.map": "/portfolio/static/js/reactPlayerSoundCloud.0e4ba1bb.chunk.js.map",
     "reactPlayerVimeo.2b7c4767.chunk.js.map": "/portfolio/static/js/reactPlayerVimeo.2b7c4767.chunk.js.map",
@@ -52,7 +51,7 @@
     "reactPlayerPreview.3eb67a05.chunk.js.map": "/portfolio/static/js/reactPlayerPreview.3eb67a05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac7ced82.css",
-    "static/js/main.f11f8e9b.js"
+    "static/css/main.6143470b.css",
+    "static/js/main.2a044544.js"
   ]
 }
