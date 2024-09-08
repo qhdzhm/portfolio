@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6143470b.css",
-    "main.js": "/portfolio/static/js/main.2a044544.js",
+    "main.js": "/portfolio/static/js/main.51eadfcd.js",
     "reactPlayerYouTube.js": "/portfolio/static/js/reactPlayerYouTube.deab9314.chunk.js",
     "reactPlayerSoundCloud.js": "/portfolio/static/js/reactPlayerSoundCloud.0e4ba1bb.chunk.js",
     "reactPlayerVimeo.js": "/portfolio/static/js/reactPlayerVimeo.2b7c4767.chunk.js",
@@ -17,7 +17,6 @@
     "reactPlayerFilePlayer.js": "/portfolio/static/js/reactPlayerFilePlayer.5dd9d3d2.chunk.js",
     "reactPlayerPreview.js": "/portfolio/static/js/reactPlayerPreview.3eb67a05.chunk.js",
     "static/media/About_Tom.png": "/portfolio/static/media/About_Tom.4fd4e9ff01f0c3b0f46c.png",
-    "static/media/work_img_2.png": "/portfolio/static/media/work_img_2.19d9d1431099ce5baad3.png",
     "static/media/work_img_1.png": "/portfolio/static/media/work_img_1.1f1f22f3f456ef972686.png",
     "static/media/stat_img_2.png": "/portfolio/static/media/stat_img_2.9c96a57c4a072956ff1c.png",
     "static/media/work_img_3.png": "/portfolio/static/media/work_img_3.ce2c9dc06510eda68051.png",
@@ -34,7 +33,7 @@
     "static/media/services_img_4.svg": "/portfolio/static/media/services_img_4.296158a99b9d16e53dcee5e9384e7c9e.svg",
     "index.html": "/portfolio/index.html",
     "main.6143470b.css.map": "/portfolio/static/css/main.6143470b.css.map",
-    "main.2a044544.js.map": "/portfolio/static/js/main.2a044544.js.map",
+    "main.51eadfcd.js.map": "/portfolio/static/js/main.51eadfcd.js.map",
     "reactPlayerYouTube.deab9314.chunk.js.map": "/portfolio/static/js/reactPlayerYouTube.deab9314.chunk.js.map",
     "reactPlayerSoundCloud.0e4ba1bb.chunk.js.map": "/portfolio/static/js/reactPlayerSoundCloud.0e4ba1bb.chunk.js.map",
     "reactPlayerVimeo.2b7c4767.chunk.js.map": "/portfolio/static/js/reactPlayerVimeo.2b7c4767.chunk.js.map",
@@ -52,6 +51,6 @@
   },
   "entrypoints": [
     "static/css/main.6143470b.css",
-    "static/js/main.2a044544.js"
+    "static/js/main.51eadfcd.js"
   ]
 }
